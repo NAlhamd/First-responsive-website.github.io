@@ -41,7 +41,10 @@ code , pre{
   background: #333;
   color:#fff;
   padding: 5px 10px;
-
+}
+.hidden{
+  visibility: hidden;
+  height: 0;
 }
 /* Navbar Style*/
 .navbar{
